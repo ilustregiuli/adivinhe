@@ -9,6 +9,6 @@
 😿 Caso termine as tentativas, jogo encerra com mensagem de consolo. <br>
 
 ### Melhorias 
-- ~~Validador de range numérico~~;
+- ~~Validador de range numérico~~; ✔
 - Validador de caracter;
 - Opção de continuar a jogar;
