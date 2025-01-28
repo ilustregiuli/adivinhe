@@ -10,5 +10,6 @@
 
 ### Melhorias 
 - ~~Validador de range numérico~~; ✔
+- ~~Dicas de maior ou menor para o usuário~~; ✔
 - Validador de caracter;
 - Opção de continuar a jogar;
